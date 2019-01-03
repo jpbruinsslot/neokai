@@ -135,4 +135,4 @@ hi ColorColumn                   guibg=#2D2D2D
 hi LineNr          guifg=#465457 guibg=#2A2A2A
 hi NonText         guifg=#465457
 hi SpecialKey      guifg=#465457
-hi VertSplit       guifg=#808080 guibg=#262626 gui=bold
+hi VertSplit       guifg=#808080 guibg=#2A2A2A gui=bold
